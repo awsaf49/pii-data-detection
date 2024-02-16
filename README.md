@@ -28,7 +28,7 @@ In this notebook, you will learn how to:
 
 # Data
 
-The competition dataset contains ~$22,000$ student essays where $70\%$ essays are reserved for **testing**, leaving $30\%$ for **training** and **validation**.
+The competition dataset contains $22,000$ student essays where $70\%$ essays are reserved for **testing**, leaving $30\%$ for **training** and **validation**.
 
 Sure, here's the modified markdown with an example of the BIO format label:
 
